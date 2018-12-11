@@ -1,0 +1,29 @@
+What is Vue? 
+
+Vue is, from the vue docs "Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries."
+
+
+How does it compare to React?
+
+Similar:
+
+1. Both utilize a virtual DOM 
+2. Provide reactive and composable view components 
+3. Maintain focus in the core library with concerns such as routing and global state management handled by companion libraries
+4. Both extremely fast
+5. Both have solutions for native-rendered app for iOS and Android (React Native) (Weex)
+
+Different:
+
+1. While React uses render functions and JSX to format HTML, Vue uses template tags that can be considered easier to read and write especially for more junior developers
+2. templates allow for easy integration of existing html based applications into the vue ecosystem
+3. Vue has scoped css so you can ensure that the css classes you define in one vue file will stay scoped to that file
+4. Vue has a far more flexible cli project generator that allows for quick setup of complicated applications
+
+What percentage of developers are using it?
+
+Reference this article for in depth statistics and breakdowns
+https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6
+
+Vue is gaining traction but likely won't unseat React. React is definitely the hottest framework around right now in terms of gaining popularity. Angular 5 is still used by more developers but React just beat out jQuery in terms of job listings in 2017 for the first time in a decade.
+
