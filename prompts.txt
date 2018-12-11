@@ -1,0 +1,5 @@
+1. Without using routing or vuex, create a navigation bar that will display one of 3 components based on which "route" is selected. The 3 routes should be a home page, a store page and a cart page.
+
+2. Create a full stack application (server and client) that will allow you to add products to a product table in the database, display those products and edit them. 
+
+3. Create a todo app using Weex (Allows you to create applications for iOS and Android)

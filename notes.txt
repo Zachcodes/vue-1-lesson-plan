@@ -1,3 +1,8 @@
+pre-class-setup 
+.1 Install vue dev tools
+.2 Install the Vue CLI
+npm install -g @vue/cli
+
 1. Create a new project with vue-create 
 
 2. Start off by showing some of the differences between setting up a vue component and a react component
