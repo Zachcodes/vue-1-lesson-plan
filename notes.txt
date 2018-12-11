@@ -1,0 +1,28 @@
+1. Create a new project with vue-create 
+
+2. Start off by showing some of the differences between setting up a vue component and a react component
+
+3. Create a basic to do component in the components folder
+
+4. Create local state and render out a repeating div displaying parts of the todo list array
+
+5. Alter it to display a passed in title prop
+
+6. Show how scoped works on the style tag
+
+7. Edit each Todo to have the ability to edit their own list (show v-model with automatically updating state and also event handling with v-on:click and v-on:keyup.enter on the input)
+
+8. Now edit each todo to render out a passed in list from props
+
+9. Edit each Todo to update the list in the parent state by calling a method on the parent
+
+10. Add the ability to delete an item by calling function on the parent
+
+11. Show conditional rendering by rendering out "No list items" if there are no list items
+
+12. Bring in lifecycle methods by introducing mounted and setting an interval id to set the timeOfDay
+
+13. Bring in computed greeting on the app.vue 
+
+14. Lastly, if there is time bring in some styles to make the list look good
+
