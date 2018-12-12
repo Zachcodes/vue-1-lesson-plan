@@ -31,3 +31,7 @@ npm install -g @vue/cli
 
 14. Lastly, if there is time bring in some styles to make the list look good
 
+**If run short
+1. Go into class binding 
+2. Bring in a transition component to fade out a button
+
